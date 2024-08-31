@@ -5,5 +5,5 @@ WalidDa10/Vehicle-Detection-Tracking-and-Speed-Estimation-Based-on-Deep-Learning
 Google clabe : you need to creat a new notebook 
 -Clone  the repostory 
 ```
-git clone 
+git clone https://github.com/WalidDa10/Vehicle-Detection-Tracking-and-Speed-Estimation-Based-on-Deep-Learning-Yolov7.git
 ```

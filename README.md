@@ -12,6 +12,7 @@ Google clabe : you need to creat a new notebook.
 git clone https://github.com/WalidDa10/Vehicle-Detection-Tracking-and-Speed-Estimation-Based-on-Deep-Learning-Yolov7.git
 ```
 - Install the dependecies
+To install required dependencies run:
 ```
 pip install -r requirements.txt
 ```

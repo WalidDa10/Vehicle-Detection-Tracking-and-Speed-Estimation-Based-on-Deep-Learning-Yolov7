@@ -29,7 +29,7 @@ To install required dependencies run:
 ```
 pip install -r requirements.txt
 ```
-For run 
+- For run 
 
 Notes: You can download yolov7-tiny or yolov7 weights from YOLOV7 assets repository
 

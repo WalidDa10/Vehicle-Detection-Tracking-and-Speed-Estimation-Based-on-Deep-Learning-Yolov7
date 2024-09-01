@@ -8,6 +8,11 @@ Firstly, you should measure the distance on the ground.
  ![](images/Picture1.png)
 
 Secondly, as for time, it depends on the number of frames on which the vehicle moves between the first and second line, so the time between line1 and line2 is calculated by the formula T= 𝑁/𝑓𝑏𝑠
+Where N is the number of frames, and FPS (frame per second) is the frame rate of the video.
+
+Now can calculate the speed by the formula:
+speed=distance/T
+
 
 
 
